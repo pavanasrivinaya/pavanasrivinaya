@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavanasrivinaya
 - 👀 I’m interested in coding
-- 💞️ I’m looking to work on python, django and vue.js
+- 💞️ I’m looking to work on python, django, Vue.js, Node.js
 - You can contact me through my mail pavanasriv@gmail.com
 
 <!---
